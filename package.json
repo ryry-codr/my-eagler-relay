@@ -1,0 +1,14 @@
+{
+  "name": "eagler-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Eaglercraft Share-to-LAN Relay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eaglerrelayjs": "^1.1.4",
+    "express": "^4.19.2"
+  }
+}
