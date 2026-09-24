@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "eaglerrelayjs": "^1.1.4",
+    "eaglerrelayjs": "latest",
     "express": "^4.19.2"
   }
 }
